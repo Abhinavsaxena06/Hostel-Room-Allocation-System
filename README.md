@@ -1,36 +1,36 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 3d0b1ad51ba6c7f23e160ed101cc605c4fee1362
 # Hostel Room Allocation Management System
 
-## Overview
+## 📌 Overview
 
-A Java-based system to allocate hostel rooms to students and manage room occupancy.
+This project is a Java-based application designed to automate hostel room allocation and management. It helps in assigning rooms to students, checking availability, and avoiding duplicate allocations.
 
-## Features
+## 🚀 Features
 
-* Allocate room
-* View allocated rooms
-* Check vacant room
-* Remove allocation
+* Allocate rooms to students
+* View all allocated rooms
+* Check room availability
+* Remove student allocation
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Java
-* OOP
+* Object-Oriented Programming (OOP)
 * ArrayList
-* Scanner
+* Scanner class
 
-## How to Run
+## ▶️ How to Run
 
-1. Open in Java IDE
-2. Run `HostelRoomAllocation.java`
-3. Use menu options
-<<<<<<< HEAD
-=======
-=======
-# Hostel-Room-Allocation-System
-A smart Java-based Hostel Room Allocation Management System designed to simplify hostel administration by enabling efficient room assignment, occupancy tracking, and real-time availability management using object-oriented programming principles.
->>>>>>> 5083ec79fd22918669e2f440bc14b31568ab5059
->>>>>>> 3d0b1ad51ba6c7f23e160ed101cc605c4fee1362
+1. Compile the program:
+   javac HostelRoomAllocation.java
+2. Run the program:
+   java HostelRoomAllocation
+
+## 🎯 Use Case
+
+Useful for colleges and hostels to manage room allocation efficiently.
+
+## 📚 Learning Outcomes
+
+* Implemented real-world problem solving using Java
+* Learned OOP concepts and data handling
+* Improved understanding of collections and user input
